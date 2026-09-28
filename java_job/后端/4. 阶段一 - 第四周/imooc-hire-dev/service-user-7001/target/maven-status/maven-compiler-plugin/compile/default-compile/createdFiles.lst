@@ -1,0 +1,5 @@
+com/imooc/service/StuService.class
+com/imooc/service/impl/StuServiceImpl.class
+com/imooc/Application.class
+com/imooc/controller/HelloController.class
+com/imooc/mapper/StuMapper.class

@@ -1,0 +1,1 @@
+<view><radio-group class="radio-group" style="margin-top:30px;margin-left:20px;"><view class="radio-item"><radio value="1" checked="{{sex==1}}"></radio><text class="radio-words">先生</text></view><view class="radio-item" style="margin-top:20px;"><radio value="0" checked="{{sex==0}}"></radio><text class="radio-words">女士</text></view></radio-group></view>

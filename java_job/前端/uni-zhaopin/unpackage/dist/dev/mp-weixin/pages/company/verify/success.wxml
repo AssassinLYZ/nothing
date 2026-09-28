@@ -1,0 +1,1 @@
+<view><view class="top"><image class="result-img" src="../../../static/images/success.png"></image></view><view class="middle"><text class="info">审核成功</text><text class="msg">欢迎入驻慕聘网企业级在线招聘平台！</text></view><view class="btn-wrapper"><view data-event-opts="{{[['tap',[['iknow']]]]}}" class="btn-change" bindtap="__e"><text class="change-words">确认</text></view></view></view>

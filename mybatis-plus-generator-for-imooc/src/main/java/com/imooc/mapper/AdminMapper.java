@@ -1,0 +1,16 @@
+package com.imooc.mapper;
+
+import com.imooc.pojo.Admin;
+import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+
+/**
+ * <p>
+ * 慕聘网运营管理系统的admin账户表，仅登录，不提供注册 Mapper 接口
+ * </p>
+ *
+ * @author 风间影月
+ * @since 2026-05-25
+ */
+public interface AdminMapper extends BaseMapper<Admin> {
+
+}

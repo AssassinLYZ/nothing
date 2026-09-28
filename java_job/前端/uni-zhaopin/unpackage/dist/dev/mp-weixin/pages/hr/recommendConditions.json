@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "筛选",
+  "navigationBarBackgroundColor": "#ffffff",
+  "navigationBarTextStyle": "black",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "range-slider": "/components/range-slider/range-slider"
+  }
+}

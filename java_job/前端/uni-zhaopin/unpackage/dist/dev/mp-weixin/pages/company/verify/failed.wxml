@@ -1,0 +1,1 @@
+<view><view class="top"><image class="result-img" src="../../../static/images/failed.png"></image></view><view class="middle"><text class="info">审核失败</text><text class="msg">公司名称和营业执照不一致</text></view><view class="btn-wrapper"><view data-event-opts="{{[['tap',[['iknow']]]]}}" class="btn-change" bindtap="__e"><text class="change-words">确认</text></view></view></view>

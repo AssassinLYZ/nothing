@@ -1,0 +1,1 @@
+<view><view class="card-box"><view class="title-wrapper" style="margin-bottom:50px;"><text class="title-one">编辑公司介绍</text><text class="title-two">可以简单介绍一下公司的发展状况、服务领域、主要产品等信息，有助于候选人对公司的了解~</text></view><textarea class="textarea" value="" maxlength="888" placeholder="请填写公司介绍(最少10个字)" placeholder-class="placeholder"></textarea></view></view>

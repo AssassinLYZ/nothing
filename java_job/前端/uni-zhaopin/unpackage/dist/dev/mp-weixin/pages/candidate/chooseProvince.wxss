@@ -1,0 +1,31 @@
+
+.page {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background-color: #ffffff;
+}
+
+/* .line {
+	height: 1rpx;
+	background-color: #dae0ff;
+	width: 750rpx;
+} */
+.place-box {
+	background-color: #c7cee0;
+}
+.place-box-touched {
+	background-color: #f9f6f6;
+}
+.right-arrow {
+	width: 32rpx;
+	height: 32rpx;
+	margin-left: 20rpx;
+}
+.active {
+	background-color: #31B9B3;
+	color: #ffffff;
+}
+

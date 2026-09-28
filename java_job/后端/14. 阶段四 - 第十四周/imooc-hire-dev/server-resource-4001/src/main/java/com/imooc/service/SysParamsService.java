@@ -1,0 +1,33 @@
+
+//	此资源由 58学课资源站 收集整理
+//	想要获取完整课件资料 请访问：58xueke.com
+//	百万资源 畅享学习
+package com.imooc.service;
+
+import com.baomidou.mybatisplus.extension.service.IService;
+import com.imooc.pojo.SysParams;
+
+/**
+ * <p>
+ * 系统参数配置表，本表仅有一条记录 服务类
+ * </p>
+ *
+ * @author 风间影月
+ * @since 2022-09-04
+ */
+public interface SysParamsService {
+
+    /**
+     * 获得系统参数
+     * @return
+     */
+    public SysParams getSysParams();
+
+    /**
+     * 更新简历的最大刷新次数
+     * @param maxCounts
+     * @param version
+     */
+    public void updateMaxResumeRefreshCounts(Integer maxCounts, Integer version);
+
+}

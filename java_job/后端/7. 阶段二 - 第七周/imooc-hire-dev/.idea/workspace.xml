@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="533e0f45-d68d-45c4-be21-ef3a422bdf4c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/hire-common/target/" />
+    <ignored path="$PROJECT_DIR$/hire-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/hire-api/target/" />
+    <ignored path="$PROJECT_DIR$/service-user/target/" />
+    <ignored path="$PROJECT_DIR$/service-user-7001/target/" />
+    <ignored path="$PROJECT_DIR$/service-company-6001/target/" />
+    <ignored path="$PROJECT_DIR$/gateway-8000/target/" />
+    <ignored path="$PROJECT_DIR$/auth-service-8111/target/" />
+    <ignored path="$PROJECT_DIR$/rabbit-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/rabbit-producer/target/" />
+    <ignored path="$PROJECT_DIR$/server-resource-4001/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/PassportController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3080">
+              <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="114" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hire-common/src/main/resources/tencentCloud.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hire-common/src/main/resources/jwt.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/mq/RabbitMQSMSConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1800">
+              <caret line="48" column="29" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/mq/RabbitMQSMSConfig_Dead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1520">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/mq/RabbitMQSMSConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2640">
+              <caret line="77" column="29" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/mq/RabbitMQSMSConsumer_Dead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>跨域</find>
+      <find>SAAS_PLATFORM_LOGIN_TOKEN + &quot;:&quot; + qrToken</find>
+      <find>SAAS_PLATFORM_LOGIN_TOKEN_READ</find>
+      <find>560</find>
+      <find>561</find>
+      <find>566</find>
+      <find>5621</find>
+      <find>IPUtil.get</find>
+      <find>HttpServletRequest</find>
+      <find>renderErrorMsg</find>
+      <find>admininfo/create</find>
+      <find>-aop</find>
+      <find>@Around(&quot;execution(* com.imooc.*.service.impl..*.*(..))&quot;)</find>
+      <find>execution(* com.imooc.*.service.impl..*.*(..))&quot;</find>
+      <find>com.imooc.service.impl</find>
+      <find>Policy</find>
+      <find>5587</find>
+      <find>routing_queue_create_order</find>
+      <find>rabbit-producer</find>
+      <find>time</find>
+      <find>encryptor</find>
+      <find>PBEWithMD5AndDES</find>
+      <find>consumer</find>
+      <find>RetryTemplate</find>
+      <find>manual</find>
+      <find>prefetch</find>
+      <find>arg</find>
+      <find>Argument</find>
+      <find>messagePostProcessor</find>
+      <find>expiration</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/ServiceLogAspect.java" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/retry/RetryCompontent.java" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/grace/result/ResponseStatusEnum.java" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/SMSUtilsRetry.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/Application.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/test/java/com/imooc/test/SpringRetryTest.java" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/task/SMSTask.java" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/retry/RetryComponent.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/WorkQueueConsumer_A.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/WorkQueueConsumer_B.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/PubSubConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/PubSubConsumer_A.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/PubSubConsumer_B.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/RoutingOrderConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/RoutingPaymentConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/TopicConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/TopicOrderConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/TopicPaymentConsumer.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbit-producer/src/main/java/com/imooc/mq/FooProducer.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/FooConsumer.java" />
+        <option value="$PROJECT_DIR$/rabbit-producer/src/main/java/com/imooc/mq/WorkQueuesProducer.java" />
+        <option value="$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/mq/SMSContentQO.java" />
+        <option value="$PROJECT_DIR$/rabbit-producer/src/main/java/com/imooc/mq/PubSubProducer.java" />
+        <option value="$PROJECT_DIR$/rabbit-producer/src/main/java/com/imooc/mq/RoutingProducer.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/PubSubConsumerA.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/PubSubConsumerB.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/WorkQueuesConsumerA.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/WorkQueuesConsumerB.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/RoutingConsumerA.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/RoutingPayConsumerB.java" />
+        <option value="$PROJECT_DIR$/rabbit-producer/src/main/java/com/imooc/mq/TopicsProducer.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/TopicsOrderConsumerA.java" />
+        <option value="$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/TopicsPayConsumerB.java" />
+        <option value="$PROJECT_DIR$/hire-api/pom.xml" />
+        <option value="$PROJECT_DIR$/server-resource-4001/pom.xml" />
+        <option value="$PROJECT_DIR$/server-resource-4001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/hire-common/pom.xml" />
+        <option value="$PROJECT_DIR$/server-resource-4001/src/test/java/com/imooc/test/JasyptTest.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/mq/RabbitMQSMSConsumer.java" />
+        <option value="$PROJECT_DIR$/server-resource-4001/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/mq/RabbitMQSMSConfig.java" />
+        <option value="$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/mq/RabbitMQSMSConsumer_Dead.java" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/mq/RabbitMQSMSConfig_Dead.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/PassportController.java" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/resources/tencentCloud.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/maven/repository" />
+        <option name="mavenHome" value="/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="/maven/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="imooc-hire-dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="imooc-hire-dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1878" />
+    <option name="y" value="23" />
+    <option name="width" value="1878" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1666497538030" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25714287" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.mq" />
+      <recent name="com.imooc.api.mq" />
+      <recent name="com.imooc.controller" />
+      <recent name="com.imooc" />
+      <recent name="com.imooc.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server-resource-4001/src/main/resources" />
+      <recent name="$PROJECT_DIR$/service-user-7001/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/auth-service-8111/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/gateway-8000/src/main/resources" />
+      <recent name="$PROJECT_DIR$/hire-api/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.18584071" />
+  </component>
+  <component name="RunManager" selected="JUnit.JasyptTest.testPwdDecrypt">
+    <configuration name="TopicsPayConsumerB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.mq.TopicsPayConsumerB" />
+      <module name="rabbit-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.mq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JasyptTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server-resource-4001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.test.JasyptTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JasyptTest.testPwd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server-resource-4001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.test.JasyptTest" />
+      <option name="METHOD_NAME" value="testPwd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JasyptTest.testPwdDecrypt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server-resource-4001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.test.JasyptTest" />
+      <option name="METHOD_NAME" value="testPwdDecrypt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JasyptTest.testPwdEncrypt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server-resource-4001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.test.JasyptTest" />
+      <option name="METHOD_NAME" value="testPwdEncrypt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="auth-service-8111" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth-service-8111" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gateway-8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-8000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-company-6001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-company-6001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-resource-4001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-resource-4001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-user-7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-user-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-user-7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-user-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="VM_PARAMETERS" value="-DPORT=7002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.TopicsPayConsumerB" />
+      <item itemvalue="JUnit.JasyptTest.testPwd" />
+      <item itemvalue="JUnit.JasyptTest" />
+      <item itemvalue="JUnit.JasyptTest.testPwdEncrypt" />
+      <item itemvalue="JUnit.JasyptTest.testPwdDecrypt" />
+      <item itemvalue="Spring Boot.service-company-6001" />
+      <item itemvalue="Spring Boot.service-user-7001" />
+      <item itemvalue="Spring Boot.service-user-7002" />
+      <item itemvalue="Spring Boot.gateway-8000" />
+      <item itemvalue="Spring Boot.auth-service-8111" />
+      <item itemvalue="Spring Boot.service-resource-4001" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JasyptTest.testPwdDecrypt" />
+        <item itemvalue="JUnit.JasyptTest.testPwdEncrypt" />
+        <item itemvalue="JUnit.JasyptTest" />
+        <item itemvalue="JUnit.JasyptTest.testPwd" />
+        <item itemvalue="Application.TopicsPayConsumerB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="533e0f45-d68d-45c4-be21-ef3a422bdf4c" name="Default Changelist" comment="" />
+      <created>1662004610000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662004610000</updated>
+      <workItem from="1662004611894" duration="4798000" />
+      <workItem from="1662080870156" duration="7058000" />
+      <workItem from="1662260146953" duration="4557000" />
+      <workItem from="1662281463793" duration="2845000" />
+      <workItem from="1662339621695" duration="2779000" />
+      <workItem from="1663031565458" duration="2407000" />
+      <workItem from="1663120085566" duration="7349000" />
+      <workItem from="1663297061909" duration="108000" />
+      <workItem from="1663466586808" duration="6513000" />
+      <workItem from="1663476271401" duration="907000" />
+      <workItem from="1663552701937" duration="1916000" />
+      <workItem from="1663673007626" duration="3267000" />
+      <workItem from="1663722483442" duration="7250000" />
+      <workItem from="1663752516005" duration="5260000" />
+      <workItem from="1663810383671" duration="3415000" />
+      <workItem from="1663852283186" duration="1829000" />
+      <workItem from="1663895237956" duration="4781000" />
+      <workItem from="1663922237896" duration="103000" />
+      <workItem from="1664024761801" duration="873000" />
+      <workItem from="1664072508504" duration="3857000" />
+      <workItem from="1664160672137" duration="1829000" />
+      <workItem from="1664241546411" duration="4011000" />
+      <workItem from="1664327768250" duration="6355000" />
+      <workItem from="1664356456975" duration="116000" />
+      <workItem from="1664413601036" duration="7689000" />
+      <workItem from="1664454811787" duration="5501000" />
+      <workItem from="1664498784110" duration="6160000" />
+      <workItem from="1664762775507" duration="1657000" />
+      <workItem from="1664848753454" duration="7917000" />
+      <workItem from="1664938014389" duration="11504000" />
+      <workItem from="1664960893517" duration="7894000" />
+      <workItem from="1665023636540" duration="4890000" />
+      <workItem from="1665110225924" duration="4766000" />
+      <workItem from="1665191037114" duration="14616000" />
+      <workItem from="1665370302356" duration="6704000" />
+      <workItem from="1665398669424" duration="1284000" />
+      <workItem from="1665400117566" duration="29000" />
+      <workItem from="1665454315274" duration="92000" />
+      <workItem from="1665539068363" duration="9293000" />
+      <workItem from="1665623090689" duration="4642000" />
+      <workItem from="1665969727770" duration="3221000" />
+      <workItem from="1665995301956" duration="2035000" />
+      <workItem from="1666009596554" duration="3668000" />
+      <workItem from="1666055002289" duration="4212000" />
+      <workItem from="1666069730855" duration="3586000" />
+      <workItem from="1666099863293" duration="167000" />
+      <workItem from="1666140820591" duration="9085000" />
+      <workItem from="1666169306216" duration="7616000" />
+      <workItem from="1666227203691" duration="10975000" />
+      <workItem from="1666254337131" duration="6088000" />
+      <workItem from="1666313029134" duration="7016000" />
+      <workItem from="1666497426267" duration="47000" />
+      <workItem from="1666497526969" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JasyptTest_testPwd - 2022.10.19 at 19h 25m 53s.xml">
+      <configuration name="JasyptTest.testPwd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest - 2022.10.19 at 19h 32m 07s.xml">
+      <configuration name="JasyptTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest - 2022.10.19 at 19h 32m 29s.xml">
+      <configuration name="JasyptTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest_testPwdEncrypt - 2022.10.19 at 19h 38m 17s.xml">
+      <configuration name="JasyptTest.testPwdEncrypt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest_testPwdDecrypt - 2022.10.19 at 19h 40m 17s.xml">
+      <configuration name="JasyptTest.testPwdDecrypt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest_testPwdDecrypt - 2022.10.19 at 19h 40m 42s.xml">
+      <configuration name="JasyptTest.testPwdDecrypt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest_testPwdEncrypt - 2022.10.20 at 09h 21m 45s.xml">
+      <configuration name="JasyptTest.testPwdEncrypt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest_testPwdEncrypt - 2022.10.20 at 09h 22m 13s.xml">
+      <configuration name="JasyptTest.testPwdEncrypt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest_testPwdDecrypt - 2022.10.20 at 09h 24m 01s.xml">
+      <configuration name="JasyptTest.testPwdDecrypt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JasyptTest_testPwdDecrypt - 2022.10.20 at 09h 24m 28s.xml">
+      <configuration name="JasyptTest.testPwdDecrypt" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="236552000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1878" y="23" width="1878" height="1057" extended-state="0" />
+    <layout>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18409586" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.47983015" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32908705" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32908705" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908705" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32908705" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.477707" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39915073" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.42810458" />
+      <window_info anchor="right" id="Bean Validation" order="1" weight="0.3295207" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295207" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.18246187" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.76645434" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32908705" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32908705" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908705" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32908705" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.477707" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39915073" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.42810458" />
+      <window_info anchor="right" id="Bean Validation" order="1" weight="0.3295207" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295207" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="bb.split(&quot;\\/&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>bb.split(&quot;\\/&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb.split(&quot;////&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb.split(&quot;\\&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb.split(&quot;\&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb.split(&quot;//&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rabbit-producer/src/main/java/com/imooc/mq/TopicsProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-amqp/2.4.6/spring-amqp-2.4.6.jar!/org/springframework/amqp/core/QueueBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit-consumer/src/main/java/com/imooc/mq/FooConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="14" selection-start-line="14" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/task/SMSTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/GsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit-producer/src/main/java/com/imooc/mq/FooProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-company-6001/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-company-6001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-company-6001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="13" selection-start-line="13" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/resources/excludeUrlPath.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-rabbit/2.4.6/spring-rabbit-2.4.6.jar!/org/springframework/amqp/rabbit/annotation/RabbitListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/mq/SMSContentQO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/jasypt/jasypt/1.9.3/jasypt-1.9.3.jar!/org/jasypt/encryption/pbe/config/EnvironmentPBEConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/jasypt/jasypt/1.9.3/jasypt-1.9.3.jar!/org/jasypt/encryption/pbe/StandardPBEStringEncryptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5080">
+          <caret line="139" column="51" selection-start-line="139" selection-start-column="51" selection-end-line="139" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/jasypt/jasypt/1.9.3/jasypt-1.9.3-sources.jar!/org/jasypt/commons/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720">
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/jasypt/jasypt/1.9.3/jasypt-1.9.3-sources.jar!/org/jasypt/encryption/pbe/StandardPBEStringEncryptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="663" column="43" lean-forward="true" selection-start-line="663" selection-start-column="43" selection-end-line="663" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/com/github/ulisesbocchio/jasypt-spring-boot/2.1.2/jasypt-spring-boot-2.1.2.jar!/com/ulisesbocchio/jasyptspringboot/properties/JasyptEncryptorConfigurationProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-rabbit/2.4.6/spring-rabbit-2.4.6.jar!/org/springframework/amqp/rabbit/connection/CachingConnectionFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="1271" column="19" lean-forward="true" selection-start-line="1271" selection-start-column="19" selection-end-line="1271" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="786">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/src/test/java/com/imooc/test/JasyptTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-rabbit/2.4.6/spring-rabbit-2.4.6-sources.jar!/org/springframework/amqp/rabbit/connection/CachingConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="157" column="18" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/retry/spring-retry/1.3.3/spring-retry-1.3.3-sources.jar!/org/springframework/retry/support/RetryTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-amqp/2.4.6/spring-amqp-2.4.6.jar!/org/springframework/amqp/core/ReturnedMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-amqp/2.4.6/spring-amqp-2.4.6.jar!/org/springframework/amqp/core/Message.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/com/rabbitmq/amqp-client/5.13.1/amqp-client-5.13.1.jar!/com/rabbitmq/client/impl/recovery/AutorecoveringChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="408" column="16" selection-start-line="408" selection-start-column="16" selection-end-line="408" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.6.11/spring-boot-autoconfigure-2.6.11.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="547" column="24" selection-start-line="547" selection-start-column="24" selection-end-line="547" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-amqp/2.4.6/spring-amqp-2.4.6.jar!/org/springframework/amqp/core/AcknowledgeMode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-rabbit/2.4.6/spring-rabbit-2.4.6-sources.jar!/org/springframework/amqp/rabbit/core/RabbitAdmin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="619" selection-start-line="619" selection-end-line="619" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-amqp/2.4.6/spring-amqp-2.4.6-sources.jar!/org/springframework/amqp/core/AcknowledgeMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/com/rabbitmq/amqp-client/5.13.1/amqp-client-5.13.1-sources.jar!/com/rabbitmq/client/impl/recovery/AutorecoveringChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="437" column="59" selection-start-line="437" selection-start-column="30" selection-end-line="437" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.6.11/spring-boot-autoconfigure-2.6.11-sources.jar!/org/springframework/boot/autoconfigure/amqp/RabbitProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="785" column="24" selection-start-line="785" selection-start-column="24" selection-end-line="785" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-rabbit/2.4.6/spring-rabbit-2.4.6-sources.jar!/org/springframework/amqp/rabbit/core/RabbitTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="1172" column="18" selection-start-line="1172" selection-start-column="18" selection-end-line="1172" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/amqp/spring-amqp/2.4.6/spring-amqp-2.4.6-sources.jar!/org/springframework/amqp/core/MessageProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="309" column="36" selection-start-line="309" selection-start-column="30" selection-end-line="309" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/PassportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3080">
+          <caret line="109" column="10" selection-start-line="109" selection-start-column="10" selection-end-line="114" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/resources/tencentCloud.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/mq/RabbitMQSMSConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/mq/RabbitMQSMSConfig_Dead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1520">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/mq/RabbitMQSMSConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2640">
+          <caret line="77" column="29" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-resource-4001/src/main/java/com/imooc/mq/RabbitMQSMSConsumer_Dead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/resources/jwt.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25714287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hire-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25714287" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25714287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

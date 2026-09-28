@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="533e0f45-d68d-45c4-be21-ef3a422bdf4c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/hire-common/target/" />
+    <ignored path="$PROJECT_DIR$/hire-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/hire-api/target/" />
+    <ignored path="$PROJECT_DIR$/service-user/target/" />
+    <ignored path="$PROJECT_DIR$/service-user-7001/target/" />
+    <ignored path="$PROJECT_DIR$/service-company-6001/target/" />
+    <ignored path="$PROJECT_DIR$/gateway-8000/target/" />
+    <ignored path="$PROJECT_DIR$/auth-service-8111/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/controller/AdminInfoController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/service/impl/AdminServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="33" column="70" lean-forward="true" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/service/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/ServiceLogAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="27" column="31" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="27" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>token_user</find>
+      <find>token</find>
+      <find>tot</find>
+      <find>headerUserToken</find>
+      <find>192.168.1.121:8848</find>
+      <find>JWTUtils</find>
+      <find>jwtProperties</find>
+      <find>config.addAllowedOriginPattern(&quot;*&quot;);</find>
+      <find>config.setAllowCredentials(true);</find>
+      <find>config.addAllowedMethod(&quot;*&quot;);</find>
+      <find>config.addAllowedHeader(&quot;*&quot;);</find>
+      <find>corsSource.registerCorsConfiguration(&quot;/**&quot;, config);</find>
+      <find>UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();</find>
+      <find>source.registerCorsConfiguration(&quot;/**&quot;, config);</find>
+      <find>CorsConfig</find>
+      <find>跨域</find>
+      <find>SAAS_PLATFORM_LOGIN_TOKEN + &quot;:&quot; + qrToken</find>
+      <find>SAAS_PLATFORM_LOGIN_TOKEN_READ</find>
+      <find>560</find>
+      <find>561</find>
+      <find>566</find>
+      <find>5621</find>
+      <find>IPUtil.get</find>
+      <find>HttpServletRequest</find>
+      <find>renderErrorMsg</find>
+      <find>admininfo/create</find>
+      <find>-aop</find>
+      <find>@Around(&quot;execution(* com.imooc.*.service.impl..*.*(..))&quot;)</find>
+      <find>execution(* com.imooc.*.service.impl..*.*(..))&quot;</find>
+      <find>com.imooc.service.impl</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/service/UsersService.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/mapper/UsersMapper.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/service/impl/UsersServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/vo/UsersVO.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/test/java/com/imooc/test/JWTTest.java" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/resources/tencentCloud.properties" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/resources/jwt.properties" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/JWTProperties.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/filter/EProperties.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/filter/JWTProperties.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/AuthController.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/pom.xml" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/intercept/JWTCurrentUserInterceptor.java" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/InterceptorConfig.java" />
+        <option value="$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/hire-common/pom.xml" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/JWTUtils.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/CorsConfig1.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/exceptions/GraceExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/SaasPassportController.java" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/grace/result/ResponseStatusEnum.java" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/IPUtil.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/filter/ExcludeUrlProperties.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/filter/SecurityFilterJWT.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/filter/IPLimitFilter.java" />
+        <option value="$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/bo/AdminBO.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/mapper/AdminMapper.java" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/Admin.java" />
+        <option value="$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/vo/AdminVO.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/bo/CreateAdminBO.java" />
+        <option value="$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/PassportController.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/hire-common/src/main/java/com/imooc/base/BaseInfoProperties.java" />
+        <option value="$PROJECT_DIR$/gateway-8000/src/main/resources/excludeUrlPath.properties" />
+        <option value="$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/controller/AdminInfoController.java" />
+        <option value="$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/ar/AdminAR.java" />
+        <option value="$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/mapper/AdminMapperAR.java" />
+        <option value="$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/bo/ResetPwdBO.java" />
+        <option value="$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/ServiceLogAspect.java" />
+        <option value="$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/ServiceLogAspect.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/maven/repository" />
+        <option name="mavenHome" value="/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="/maven/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="imooc-hire-dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="imooc-hire-dev" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1879" />
+    <option name="y" value="551" />
+    <option name="width" value="1879" />
+    <option name="height" value="529" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="imooc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="auth-service-8111" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intercept" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hire-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-company-6001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-company-6001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-company-6001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-company-6001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-company-6001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-company-6001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-user-7001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-user-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-user-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-user-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-hire-dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-hire-dev" type="462c0819:PsiDirectoryNode" />
+              <item name="service-user-7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1665214766410" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25714287" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.imooc.mapper" />
+      <recent name="com.imooc.pojo.bo" />
+      <recent name="com.imooc.pojo.ar" />
+      <recent name="com.imooc.utils" />
+      <recent name="com.imooc.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/service-user-7001/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/auth-service-8111/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/gateway-8000/src/main/resources" />
+      <recent name="$PROJECT_DIR$/hire-api/src/main/resources" />
+      <recent name="$PROJECT_DIR$/auth-service-8111/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.18584071" />
+  </component>
+  <component name="RunManager" selected="JUnit.JWTTest.checkJWT">
+    <configuration name="DesensitizationUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.utils.DesensitizationUtil" />
+      <module name="hire-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JWTTest.checkJWT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-service-8111" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.test.JWTTest" />
+      <option name="METHOD_NAME" value="checkJWT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JWTTest.createJWT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-service-8111" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.test.JWTTest" />
+      <option name="METHOD_NAME" value="createJWT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="auth-service-8111" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth-service-8111" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gateway-8000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-8000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-company-6001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-company-6001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-user-7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-user-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="service-user-7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-user-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.imooc.Application" />
+      <option name="VM_PARAMETERS" value="-DPORT=7002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.DesensitizationUtil" />
+      <item itemvalue="JUnit.JWTTest.createJWT" />
+      <item itemvalue="JUnit.JWTTest.checkJWT" />
+      <item itemvalue="Spring Boot.service-company-6001" />
+      <item itemvalue="Spring Boot.service-user-7001" />
+      <item itemvalue="Spring Boot.service-user-7002" />
+      <item itemvalue="Spring Boot.gateway-8000" />
+      <item itemvalue="Spring Boot.auth-service-8111" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JWTTest.checkJWT" />
+        <item itemvalue="JUnit.JWTTest.createJWT" />
+        <item itemvalue="Application.DesensitizationUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="533e0f45-d68d-45c4-be21-ef3a422bdf4c" name="Default Changelist" comment="" />
+      <created>1662004610000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662004610000</updated>
+      <workItem from="1662004611894" duration="4798000" />
+      <workItem from="1662080870156" duration="7058000" />
+      <workItem from="1662260146953" duration="4557000" />
+      <workItem from="1662281463793" duration="2845000" />
+      <workItem from="1662339621695" duration="2779000" />
+      <workItem from="1663031565458" duration="2407000" />
+      <workItem from="1663120085566" duration="7349000" />
+      <workItem from="1663297061909" duration="108000" />
+      <workItem from="1663466586808" duration="6513000" />
+      <workItem from="1663476271401" duration="907000" />
+      <workItem from="1663552701937" duration="1916000" />
+      <workItem from="1663673007626" duration="3267000" />
+      <workItem from="1663722483442" duration="7250000" />
+      <workItem from="1663752516005" duration="5260000" />
+      <workItem from="1663810383671" duration="3415000" />
+      <workItem from="1663852283186" duration="1829000" />
+      <workItem from="1663895237956" duration="4781000" />
+      <workItem from="1663922237896" duration="103000" />
+      <workItem from="1664024761801" duration="873000" />
+      <workItem from="1664072508504" duration="3857000" />
+      <workItem from="1664160672137" duration="1829000" />
+      <workItem from="1664241546411" duration="4011000" />
+      <workItem from="1664327768250" duration="6355000" />
+      <workItem from="1664356456975" duration="116000" />
+      <workItem from="1664413601036" duration="7689000" />
+      <workItem from="1664454811787" duration="5501000" />
+      <workItem from="1664498784110" duration="6160000" />
+      <workItem from="1664762775507" duration="1657000" />
+      <workItem from="1664848753454" duration="7917000" />
+      <workItem from="1664938014389" duration="11504000" />
+      <workItem from="1664960893517" duration="7894000" />
+      <workItem from="1665023636540" duration="4890000" />
+      <workItem from="1665110225924" duration="4766000" />
+      <workItem from="1665191037114" duration="14094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JWTTest_createJWT - 2022.09.27 at 10h 15m 52s.xml">
+      <configuration name="JWTTest.createJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTTest_createJWT - 2022.09.27 at 10h 18m 57s.xml">
+      <configuration name="JWTTest.createJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTTest_createJWT - 2022.09.27 at 10h 19m 45s.xml">
+      <configuration name="JWTTest.createJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTTest_createJWT - 2022.09.27 at 10h 20m 43s.xml">
+      <configuration name="JWTTest.createJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTTest_createJWT - 2022.09.27 at 10h 24m 37s.xml">
+      <configuration name="JWTTest.createJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTTest_checkJWT - 2022.09.27 at 10h 43m 36s.xml">
+      <configuration name="JWTTest.checkJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTTest_checkJWT - 2022.09.27 at 10h 44m 12s.xml">
+      <configuration name="JWTTest.checkJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTTest_checkJWT - 2022.09.27 at 10h 44m 37s.xml">
+      <configuration name="JWTTest.checkJWT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTTest_checkJWT - 2022.09.29 at 11h 15m 59s.xml">
+      <configuration name="JWTTest.checkJWT" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="156255000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1879" y="23" width="1879" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.19923788" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.7569002" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32908705" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32908705" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908705" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32908705" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.55307853" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39915073" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.56287426" />
+      <window_info anchor="right" id="Bean Validation" order="1" weight="0.3295207" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295207" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.19923788" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" weight="0.7569002" />
+      <window_info anchor="bottom" id="Java Enterprise" order="1" weight="0.32908705" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32908705" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32908705" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32908705" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.55307853" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.39915073" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.56287426" />
+      <window_info anchor="right" id="Bean Validation" order="1" weight="0.3295207" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295207" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="bb.split(&quot;\\/&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>bb.split(&quot;\\/&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb.split(&quot;////&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb.split(&quot;\\&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb.split(&quot;\&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bb.split(&quot;//&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2440">
+          <caret line="63" column="22" selection-start-line="63" selection-start-column="22" selection-end-line="63" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/spring-web/5.3.22/spring-web-5.3.22.jar!/org/springframework/web/server/ServerWebExchange.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.65/tomcat-embed-core-9.0.65.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162" />
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/cloud/spring-cloud-gateway-server/3.1.4/spring-cloud-gateway-server-3.1.4.jar!/org/springframework/cloud/gateway/filter/GlobalFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/spring-core/5.3.22/spring-core-5.3.22.jar!/org/springframework/core/Ordered.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/org/springframework/spring-web/5.3.22/spring-web-5.3.22.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/IPUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/resources/application-prod.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/filter/ExcludeUrlProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/filter/SecurityFilterJWT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/java/com/imooc/filter/IPLimitFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/resources/mapper/AdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/mapper/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/vo/UsersVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/intercept/JWTCurrentUserInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/vo/AdminVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/resources/mapper/AdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/mapper/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/bo/AdminBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/bo/CreateAdminBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="55" selection-start-line="55" selection-end-line="61" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth-service-8111/src/main/java/com/imooc/controller/PassportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="62" column="32" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-8000/src/main/resources/excludeUrlPath.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/java/com/imooc/utils/PagedGridResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/com/github/pagehelper/pagehelper/5.3.0/pagehelper-5.3.0.jar!/com/github/pagehelper/PageInfo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///maven/repository/com/baomidou/mybatis-plus-extension/3.5.0/mybatis-plus-extension-3.5.0-sources.jar!/com/baomidou/mybatisplus/extension/activerecord/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="171" column="13" selection-start-line="171" selection-start-column="13" selection-end-line="171" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/java/com/imooc/grace/result/ResponseStatusEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/ar/AdminAR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/src/main/java/com/imooc/base/BaseInfoProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="142" column="42" selection-start-line="142" selection-start-column="27" selection-end-line="142" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-pojo/src/main/java/com/imooc/pojo/bo/ResetPwdBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/resources/mapper/AdminMapperAR.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/mapper/AdminMapperAR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/ServiceLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/controller/AdminInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-user-7001/src/main/java/com/imooc/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="33" column="70" lean-forward="true" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3864">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hire-api/src/main/java/com/imooc/api/ServiceLogAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25714287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hire-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25714287" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.25714287" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+com/imooc/mq/WorkQueuesProducer.class
+com/imooc/mq/PubSubProducer.class
+com/imooc/mq/FooProducer.class
+com/imooc/mq/TopicsProducer.class
+com/imooc/mq/RoutingProducer.class

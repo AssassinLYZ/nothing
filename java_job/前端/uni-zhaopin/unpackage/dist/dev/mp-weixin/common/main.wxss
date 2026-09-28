@@ -1,0 +1,215 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+.line-wrapper {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.line {
+	background-color: #f6f6f6;
+	/* background-color: red; */
+	height: 1px;
+	width: 90%;
+	align-self: center;
+}
+/* uni-radio .uni-radio-input.uni-radio-input-checked{
+	background-color: #31B9B3!important;
+	border-color: #31B9B3!important;
+	background-clip: content-box!important;
+	padding: 6rpx!important;
+	box-sizing: border-box;
+} */
+/* uni-radio .uni-radio-input.uni-radio-input-checked::before{
+	display: none!important;
+} */
+.uni-radio-input {
+	width: 26px;
+	height: 26px;
+}
+uni-radio:not([disabled]) .uni-radio-input:hover {
+	border-color: #31B9B3 !important;
+}
+uni-radio .uni-radio-input.uni-radio-input-checked {
+	border-color: #31B9B3 !important;
+	background: #31B9B3 !important;
+}
+uni-radio .uni-radio-input.uni-radio-input-checked::before {
+	background: #31B9B3 !important;
+	border-color: #31B9B3 !important;
+}
+.radio-group {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+.radio-item {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+.radio-words {
+	align-self: center;
+	/* margin-left: 6px; */
+	font-size: 17px;
+	font-weight: 400;
+}
+uni-slider .uni-slider-handle-wrapper{
+	height: 3px;
+}
+
+

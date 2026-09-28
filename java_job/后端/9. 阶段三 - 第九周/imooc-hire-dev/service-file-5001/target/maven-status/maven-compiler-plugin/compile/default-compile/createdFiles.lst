@@ -1,0 +1,7 @@
+com/imooc/MinIOUtils.class
+com/imooc/Application.class
+com/imooc/OSSConfig.class
+com/imooc/MinIOConfig.class
+com/imooc/StaticResourceConfig.class
+com/imooc/controller/FileController.class
+com/imooc/OSSUtils.class

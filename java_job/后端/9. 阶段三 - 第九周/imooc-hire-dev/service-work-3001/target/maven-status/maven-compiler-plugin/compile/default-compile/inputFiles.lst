@@ -1,0 +1,10 @@
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/service/ResumeService.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/mapper/ResumeMapper.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/mq/InitResumeMQConsumer.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/service/impl/MqLocalMsgRecordServiceImpl.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/service/MqLocalMsgRecordService.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/service/impl/ResumeServiceImpl.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/Application.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/mapper/MqLocalMsgRecordMapper.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/controller/ResumeController.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/service-work-3001/src/main/java/com/imooc/controller/HelloController.java

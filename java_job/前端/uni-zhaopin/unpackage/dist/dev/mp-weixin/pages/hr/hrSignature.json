@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个人签名",
+  "navigationBarBackgroundColor": "#31B9B3",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {}
+}

@@ -1,0 +1,16 @@
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/controller/PassportController.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/controller/AdminController.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/Application.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/service/MqLocalMsgRecordService.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/controller/AuthController.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/mapper/MqLocalMsgRecordMapper.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/service/UsersService.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/mapper/AdminMapper.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/mapper/UsersMapper.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/service/impl/AdminServiceImpl.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/service/AdminService.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/mq/InitResumeMQProducerHandler.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/controller/SaasPassportController.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/service/impl/UsersServiceImpl.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/MyTransactionManager.java
+/Users/leechenxiang/Desktop/imooc-hire-dev/auth-service-8111/src/main/java/com/imooc/service/impl/MqLocalMsgRecordServiceImpl.java

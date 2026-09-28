@@ -1,0 +1,10 @@
+com/imooc/service/impl/MqLocalMsgRecordServiceImpl.class
+com/imooc/service/impl/ResumeServiceImpl.class
+com/imooc/service/ResumeService.class
+com/imooc/controller/ResumeController.class
+com/imooc/mapper/ResumeMapper.class
+com/imooc/Application.class
+com/imooc/controller/HelloController.class
+com/imooc/service/MqLocalMsgRecordService.class
+com/imooc/mapper/MqLocalMsgRecordMapper.class
+com/imooc/mq/InitResumeMQConsumer.class
